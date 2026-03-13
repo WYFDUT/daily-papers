@@ -12,7 +12,8 @@ import shutil
 import traceback
 
 # KEYS = ["anomaly detection", "vector quantization"]
-KEYS = ["Defect Detection", "Defect Segmentation", "Anomaly Detection", "3D Anomaly Detection", "Multimodal Anomaly Detection", "Vector Quantization"]
+#KEYS = ["Defect Detection", "Defect Segmentation", "Anomaly Detection", "3D Anomaly Detection", "Multimodal Anomaly Detection", "Vector Quantization"]
+KEYS = ["monocular 3d object", "monocular 3d","3d object"]
 data, papers = {}, {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
