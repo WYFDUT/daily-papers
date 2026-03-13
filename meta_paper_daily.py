@@ -13,7 +13,7 @@ import traceback
 
 # KEYS = ["anomaly detection", "vector quantization"]
 #KEYS = ["Defect Detection", "Defect Segmentation", "Anomaly Detection", "3D Anomaly Detection", "Multimodal Anomaly Detection", "Vector Quantization"]
-KEYS = ["monocular 3d object", "monocular 3d","3d object"]
+KEYS = ["monocular 3d object detection","3D Visual Grounding"]
 data, papers = {}, {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
