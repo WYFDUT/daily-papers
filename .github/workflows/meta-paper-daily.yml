@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 0 */3 * *"  #'*/60 * * * *''0 0 */3 * *'
+    - cron:  "0 0 */7 * *"  #'*/60 * * * *''0 0 */3 * *'
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -15,7 +15,7 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: Cosword
+  GITHUB_USER_NAME: zhaoylee
   GITHUB_USER_EMAIL: cross_music@163.com
   
   
