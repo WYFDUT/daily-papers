@@ -3,7 +3,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.03.15
+## Updated on 2026.03.20
 
 ## Monocular 3d Object Detection
 
@@ -34,6 +34,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-18**|**OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**|Zhongyuang Liu et.al|[paper](https://arxiv.org/abs/2603.17351)|-|-|
 |**2026-3-9**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al|[paper](https://arxiv.org/abs/2603.08131)|-|-|
 |**2026-2-19**|**JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments**|Zhan Liu et.al|[paper](https://arxiv.org/abs/2602.18527)|-|-|
 |**2026-2-3**|**Z3D: Zero-Shot 3D Visual Grounding from Images**|Nikita Drozdov et.al|[paper](https://arxiv.org/abs/2602.03361)|[code](https://github.com/col14m/z3d)|-|
@@ -53,5 +54,4 @@
 |**2025-9-19**|**Zero-Shot Visual Grounding in 3D Gaussians via View Retrieval**|Liwei Liao et.al|[paper](https://arxiv.org/abs/2509.15871)|[code](https://github.com/leviome/GVR_demos.)|-|
 |**2025-9-12**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al|[paper](https://arxiv.org/abs/2503.08336)|[code](https://github.com/GuanRunwei/TPCNet.)|-|
 |**2025-9-4**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al|[paper](https://arxiv.org/abs/2507.14904)|-|-|
-|**2025-8-28**|**SeqVLM: Proposal-Guided Multi-View Sequences Reasoning via VLM for Zero-Shot 3D Visual Grounding**|Jiawen Lin et.al|[paper](https://arxiv.org/abs/2508.20758)|[code](https://github.com/JiawLin/SeqVLM.)|-|
 
