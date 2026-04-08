@@ -3,12 +3,13 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.04.01
+## Updated on 2026.04.08
 
 ## Monocular 3d Object Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-5**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al|[paper](https://arxiv.org/abs/2604.01646)|[code](https://github.com/VisualAIKHU/MonoSAOD)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-28**|**Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al|[paper](https://arxiv.org/abs/2505.04594)|-|<details><summary>detail</summary>Journal ref:CVPR 2026</details>|
 |**2026-3-27**|**Towards Intrinsic-Aware Monocular 3D Object Detection**|Zhihao Zhang et.al|[paper](https://arxiv.org/abs/2603.27059)|-|<details><summary>detail</summary>This paper is accepted by CVPR 2026</details>|
 |**2026-3-10**|**SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection**|Yifan Wang et.al|[paper](https://arxiv.org/abs/2511.06702)|-|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
@@ -28,12 +29,12 @@
 |**2025-7-3**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al|[paper](https://arxiv.org/abs/2507.02393)|-|-|
 |**2025-6-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al|[paper](https://arxiv.org/abs/2506.14835)|-|-|
 |**2025-4-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al|[paper](https://arxiv.org/abs/2504.18203)|-|<details><summary>detail</summary>Accepted for the Data-Driven Learning for Intelligent Vehicle Applications Workshop at the 36th IEEE Intelligent Vehicles Symposium (IV) 2025</details>|
-|**2025-4-10**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al|[paper](https://arxiv.org/abs/2504.06801)|[code](https://rishubhpar.github.io/monoplace3D)|<details><summary>detail</summary>CVPR 2025 Camera Ready</details>|
 
 ## 3D Visual Grounding
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-2**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al|[paper](https://arxiv.org/abs/2604.00528)|-|-|
 |**2026-3-31**|**MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation**|Changli Wu et.al|[paper](https://arxiv.org/abs/2601.06874)|[code](https://mvggt.github.io/.)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-18**|**OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**|Zhongyuang Liu et.al|[paper](https://arxiv.org/abs/2603.17351)|-|-|
 |**2026-3-9**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al|[paper](https://arxiv.org/abs/2603.08131)|-|-|
@@ -53,5 +54,4 @@
 |**2025-10-13**|**DSM: Constructing a Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al|[paper](https://arxiv.org/abs/2504.08307)|[code](https://binicey.github.io/DSM)|-|
 |**2025-9-19**|**Zero-Shot Visual Grounding in 3D Gaussians via View Retrieval**|Liwei Liao et.al|[paper](https://arxiv.org/abs/2509.15871)|[code](https://github.com/leviome/GVR_demos.)|-|
 |**2025-9-12**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al|[paper](https://arxiv.org/abs/2503.08336)|[code](https://github.com/GuanRunwei/TPCNet.)|-|
-|**2025-9-4**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al|[paper](https://arxiv.org/abs/2507.14904)|-|-|
 
