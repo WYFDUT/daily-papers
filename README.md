@@ -1,9 +1,10 @@
 ## Daily Papers
 - [Monocular 3d Object Detection](#Monocular-3d-Object-Detection)
+- [Monocular 3D Visual Grounding](#Monocular-3D-Visual-Grounding)
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.04.15
+## Updated on 2026.04.19
 
 ## Monocular 3d Object Detection
 
@@ -29,6 +30,14 @@
 |**2025-7-3**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al|[paper](https://arxiv.org/abs/2507.02393)|-|-|
 |**2025-6-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al|[paper](https://arxiv.org/abs/2506.14835)|-|-|
 |**2025-4-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al|[paper](https://arxiv.org/abs/2504.18203)|-|<details><summary>detail</summary>Accepted for the Data-Driven Learning for Intelligent Vehicle Applications Workshop at the 36th IEEE Intelligent Vehicles Symposium (IV) 2025</details>|
+
+## Monocular 3D Visual Grounding
+
+|Date|Title|Authors|PDF|Code|Comments|
+|:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-10**|**Mono3DVG-EnSD: Enhanced Spatial-aware and Dimension-decoupled Text Encoding for Monocular 3D Visual Grounding**|Yuzhen Li et.al|[paper](https://arxiv.org/abs/2511.06908)|-|-|
+|**2025-8-26**|**Dual Enhancement on 3D Vision-Language Perception for Monocular 3D Visual Grounding**|Yuzhen Li et.al|[paper](https://arxiv.org/abs/2508.19165)|-|-|
+|**2023-12-13**|**Mono3DVG: 3D Visual Grounding in Monocular Images**|Yang Zhan et.al|[paper](https://arxiv.org/abs/2312.08022)|[code](https://github.com/ZhanYang-nwpu/Mono3DVG.)|<details><summary>detail</summary>Accepted by the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024)</details>|
 
 ## 3D Visual Grounding
 
