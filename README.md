@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.04.22
+## Updated on 2026.04.29
 
 ## Monocular 3d Object Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-28**|**DEGround: An Effective Baseline for Ego-centric 3D Visual Grounding with a Homogeneous Framework**|Yani Zhang et.al|[paper](https://arxiv.org/abs/2506.05199)|-|<details><summary>detail</summary>1st place on EmbodiedScan visual grounding</details>|
 |**2026-4-2**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al|[paper](https://arxiv.org/abs/2604.00528)|-|-|
 |**2026-3-31**|**MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation**|Changli Wu et.al|[paper](https://arxiv.org/abs/2601.06874)|[code](https://mvggt.github.io/.)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-18**|**OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**|Zhongyuang Liu et.al|[paper](https://arxiv.org/abs/2603.17351)|-|-|
@@ -62,5 +63,4 @@
 |**2025-10-16**|**ChangingGrounding: 3D Visual Grounding in Changing Scenes**|Miao Hu et.al|[paper](https://arxiv.org/abs/2510.14965)|[code](https://hm123450.github.io/CGB/)|-|
 |**2025-10-13**|**DSM: Constructing a Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al|[paper](https://arxiv.org/abs/2504.08307)|[code](https://binicey.github.io/DSM)|-|
 |**2025-9-19**|**Zero-Shot Visual Grounding in 3D Gaussians via View Retrieval**|Liwei Liao et.al|[paper](https://arxiv.org/abs/2509.15871)|[code](https://github.com/leviome/GVR_demos.)|-|
-|**2025-9-12**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al|[paper](https://arxiv.org/abs/2503.08336)|[code](https://github.com/GuanRunwei/TPCNet.)|-|
 
