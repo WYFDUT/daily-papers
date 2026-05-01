@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.04.29
+## Updated on 2026.05.01
 
 ## Monocular 3d Object Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-28**|**Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding**|Yufei Yin et.al|[paper](https://arxiv.org/abs/2604.26261)|-|-|
 |**2026-4-28**|**DEGround: An Effective Baseline for Ego-centric 3D Visual Grounding with a Homogeneous Framework**|Yani Zhang et.al|[paper](https://arxiv.org/abs/2506.05199)|-|<details><summary>detail</summary>1st place on EmbodiedScan visual grounding</details>|
 |**2026-4-2**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al|[paper](https://arxiv.org/abs/2604.00528)|-|-|
 |**2026-3-31**|**MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation**|Changli Wu et.al|[paper](https://arxiv.org/abs/2601.06874)|[code](https://mvggt.github.io/.)|<details><summary>detail</summary>CVPR 2026</details>|
@@ -62,5 +63,4 @@
 |**2025-10-27**|**From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes**|Tianxu Wang et.al|[paper](https://arxiv.org/abs/2506.04897)|[code](https://anywhere-3d.github.io/)|<details><summary>detail</summary>Update v3 of the NeurIPS 2025 Datasets and Benchmarks paper (v2)</details>|
 |**2025-10-16**|**ChangingGrounding: 3D Visual Grounding in Changing Scenes**|Miao Hu et.al|[paper](https://arxiv.org/abs/2510.14965)|[code](https://hm123450.github.io/CGB/)|-|
 |**2025-10-13**|**DSM: Constructing a Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al|[paper](https://arxiv.org/abs/2504.08307)|[code](https://binicey.github.io/DSM)|-|
-|**2025-9-19**|**Zero-Shot Visual Grounding in 3D Gaussians via View Retrieval**|Liwei Liao et.al|[paper](https://arxiv.org/abs/2509.15871)|[code](https://github.com/leviome/GVR_demos.)|-|
 
