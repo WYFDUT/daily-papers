@@ -4,12 +4,13 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.05.08
+## Updated on 2026.05.15
 
 ## Monocular 3d Object Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-14**|**MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection**|Leon Davies et.al|[paper](https://arxiv.org/abs/2605.14781)|[code](https://github.com/bigggs/MonoPRIO.)|-|
 |**2026-4-5**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al|[paper](https://arxiv.org/abs/2604.01646)|[code](https://github.com/VisualAIKHU/MonoSAOD)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-28**|**Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al|[paper](https://arxiv.org/abs/2505.04594)|-|<details><summary>detail</summary>Journal ref:CVPR 2026</details>|
 |**2026-3-27**|**Towards Intrinsic-Aware Monocular 3D Object Detection**|Zhihao Zhang et.al|[paper](https://arxiv.org/abs/2603.27059)|-|<details><summary>detail</summary>This paper is accepted by CVPR 2026</details>|
@@ -29,7 +30,6 @@
 |**2025-8-27**|**Generalizing Monocular 3D Object Detection**|Abhinav Kumar et.al|[paper](https://arxiv.org/abs/2508.19593)|-|<details><summary>detail</summary>PhD Thesis submitted to MSU</details>|
 |**2025-7-3**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al|[paper](https://arxiv.org/abs/2507.02393)|-|-|
 |**2025-6-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al|[paper](https://arxiv.org/abs/2506.14835)|-|-|
-|**2025-4-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al|[paper](https://arxiv.org/abs/2504.18203)|-|<details><summary>detail</summary>Accepted for the Data-Driven Learning for Intelligent Vehicle Applications Workshop at the 36th IEEE Intelligent Vehicles Symposium (IV) 2025</details>|
 
 ## Monocular 3D Visual Grounding
 
