@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.05.15
+## Updated on 2026.05.22
 
 ## Monocular 3d Object Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-20**|**SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching**|Xuefei Sun et.al|[paper](https://arxiv.org/abs/2605.21788)|-|-|
 |**2026-4-28**|**Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding**|Yufei Yin et.al|[paper](https://arxiv.org/abs/2604.26261)|-|-|
 |**2026-4-28**|**DEGround: An Effective Baseline for Ego-centric 3D Visual Grounding with a Homogeneous Framework**|Yani Zhang et.al|[paper](https://arxiv.org/abs/2506.05199)|-|<details><summary>detail</summary>1st place on EmbodiedScan visual grounding</details>|
 |**2026-4-2**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al|[paper](https://arxiv.org/abs/2604.00528)|-|-|
@@ -62,5 +63,4 @@
 |**2025-11-10**|**Mono3DVG-EnSD: Enhanced Spatial-aware and Dimension-decoupled Text Encoding for Monocular 3D Visual Grounding**|Yuzhen Li et.al|[paper](https://arxiv.org/abs/2511.06908)|-|-|
 |**2025-10-27**|**From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes**|Tianxu Wang et.al|[paper](https://arxiv.org/abs/2506.04897)|[code](https://anywhere-3d.github.io/)|<details><summary>detail</summary>Update v3 of the NeurIPS 2025 Datasets and Benchmarks paper (v2)</details>|
 |**2025-10-16**|**ChangingGrounding: 3D Visual Grounding in Changing Scenes**|Miao Hu et.al|[paper](https://arxiv.org/abs/2510.14965)|[code](https://hm123450.github.io/CGB/)|-|
-|**2025-10-13**|**DSM: Constructing a Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al|[paper](https://arxiv.org/abs/2504.08307)|[code](https://binicey.github.io/DSM)|-|
 
