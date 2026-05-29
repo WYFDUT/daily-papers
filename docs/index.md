@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.05.22
+## Updated on 2026.05.29
 
 ## Monocular 3d Object Detection
 
@@ -43,6 +43,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-28**|**JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments**|Zhan Liu et.al|[paper](https://arxiv.org/abs/2602.18527)|[code](https://github.com/liuzhan22/JAEGER.)|<details><summary>detail</summary>ICML 2026</details>|
+|**2026-5-25**|**AgentGrounder: Zero-Shot 3D Visual Pointcloud Grounding using Multimodal Language Models**|Cuong Huynh et.al|[paper](https://arxiv.org/abs/2605.25901)|[code](https://github.com/be2rlab/AgentGrounder.)|<details><summary>detail</summary>Code: https://github</details>|
 |**2026-5-20**|**SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching**|Xuefei Sun et.al|[paper](https://arxiv.org/abs/2605.21788)|-|-|
 |**2026-4-28**|**Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding**|Yufei Yin et.al|[paper](https://arxiv.org/abs/2604.26261)|-|-|
 |**2026-4-28**|**DEGround: An Effective Baseline for Ego-centric 3D Visual Grounding with a Homogeneous Framework**|Yani Zhang et.al|[paper](https://arxiv.org/abs/2506.05199)|-|<details><summary>detail</summary>1st place on EmbodiedScan visual grounding</details>|
@@ -50,7 +52,6 @@
 |**2026-3-31**|**MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation**|Changli Wu et.al|[paper](https://arxiv.org/abs/2601.06874)|[code](https://mvggt.github.io/.)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-18**|**OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**|Zhongyuang Liu et.al|[paper](https://arxiv.org/abs/2603.17351)|-|-|
 |**2026-3-9**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al|[paper](https://arxiv.org/abs/2603.08131)|-|-|
-|**2026-2-19**|**JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments**|Zhan Liu et.al|[paper](https://arxiv.org/abs/2602.18527)|-|-|
 |**2026-2-3**|**Z3D: Zero-Shot 3D Visual Grounding from Images**|Nikita Drozdov et.al|[paper](https://arxiv.org/abs/2602.03361)|[code](https://github.com/col14m/z3d)|-|
 |**2026-1-30**|**Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation**|Di Zhang et.al|[paper](https://arxiv.org/abs/2601.22988)|-|-|
 |**2026-1-13**|**Reasoning Matters for 3D Visual Grounding**|Hsiang-Wei Huang et.al|[paper](https://arxiv.org/abs/2601.08811)|-|<details><summary>detail</summary>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language</details>|
@@ -62,5 +63,4 @@
 |**2025-11-30**|**S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance**|Beining Xu et.al|[paper](https://arxiv.org/abs/2512.01223)|-|-|
 |**2025-11-10**|**Mono3DVG-EnSD: Enhanced Spatial-aware and Dimension-decoupled Text Encoding for Monocular 3D Visual Grounding**|Yuzhen Li et.al|[paper](https://arxiv.org/abs/2511.06908)|-|-|
 |**2025-10-27**|**From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes**|Tianxu Wang et.al|[paper](https://arxiv.org/abs/2506.04897)|[code](https://anywhere-3d.github.io/)|<details><summary>detail</summary>Update v3 of the NeurIPS 2025 Datasets and Benchmarks paper (v2)</details>|
-|**2025-10-16**|**ChangingGrounding: 3D Visual Grounding in Changing Scenes**|Miao Hu et.al|[paper](https://arxiv.org/abs/2510.14965)|[code](https://hm123450.github.io/CGB/)|-|
 
