@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.06.22
+## Updated on 2026.06.29
 
 ## Monocular 3d Object Detection
 
@@ -43,6 +43,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-26**|**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**|Jiaming Bian et.al|[paper](https://arxiv.org/abs/2606.26964)|-|-|
+|**2026-6-18**|**Scaling Diverse Language Generation for 3D Visual Grounding**|Austin T. Wang et.al|[paper](https://arxiv.org/abs/2606.20946)|[code](https://3dlg-hcvc.github.io/vigil3dpp)|-|
 |**2026-5-28**|**JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments**|Zhan Liu et.al|[paper](https://arxiv.org/abs/2602.18527)|[code](https://github.com/liuzhan22/JAEGER.)|<details><summary>detail</summary>ICML 2026</details>|
 |**2026-5-25**|**AgentGrounder: Zero-Shot 3D Visual Pointcloud Grounding using Multimodal Language Models**|Cuong Huynh et.al|[paper](https://arxiv.org/abs/2605.25901)|[code](https://github.com/be2rlab/AgentGrounder.)|<details><summary>detail</summary>Code: https://github</details>|
 |**2026-5-20**|**SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching**|Xuefei Sun et.al|[paper](https://arxiv.org/abs/2605.21788)|-|-|
@@ -61,6 +63,4 @@
 |**2025-12-23**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Seongmin Jung et.al|[paper](https://arxiv.org/abs/2512.20907)|-|-|
 |**2025-12-9**|**View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs**|Yuanyuan Liu et.al|[paper](https://arxiv.org/abs/2512.09215)|-|-|
 |**2025-11-30**|**S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance**|Beining Xu et.al|[paper](https://arxiv.org/abs/2512.01223)|-|-|
-|**2025-11-10**|**Mono3DVG-EnSD: Enhanced Spatial-aware and Dimension-decoupled Text Encoding for Monocular 3D Visual Grounding**|Yuzhen Li et.al|[paper](https://arxiv.org/abs/2511.06908)|-|-|
-|**2025-10-27**|**From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes**|Tianxu Wang et.al|[paper](https://arxiv.org/abs/2506.04897)|[code](https://anywhere-3d.github.io/)|<details><summary>detail</summary>Update v3 of the NeurIPS 2025 Datasets and Benchmarks paper (v2)</details>|
 
