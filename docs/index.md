@@ -4,12 +4,13 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.06.29
+## Updated on 2026.07.01
 
 ## Monocular 3d Object Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-26**|**PLOT: Pseudo-Labeling via Object Tracking for Monocular 3D Object Detection**|Seokyeong Lee et.al|[paper](https://arxiv.org/abs/2507.02393)|[code](https://plot-eccv.github.io.)|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-5-14**|**MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection**|Leon Davies et.al|[paper](https://arxiv.org/abs/2605.14781)|[code](https://github.com/bigggs/MonoPRIO.)|-|
 |**2026-4-5**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al|[paper](https://arxiv.org/abs/2604.01646)|[code](https://github.com/VisualAIKHU/MonoSAOD)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-28**|**Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al|[paper](https://arxiv.org/abs/2505.04594)|-|<details><summary>detail</summary>Journal ref:CVPR 2026</details>|
@@ -28,7 +29,6 @@
 |**2025-9-5**|**3D-MOOD: Lifting 2D to 3D for Monocular Open-Set Object Detection**|Yung-Hsu Yang et.al|[paper](https://arxiv.org/abs/2507.23567)|-|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-8-28**|**Adaptive Dual Uncertainty Optimization: Boosting Monocular 3D Object Detection under Test-Time Shifts**|Zixuan Hu et.al|[paper](https://arxiv.org/abs/2508.20488)|-|<details><summary>detail</summary>Accepted by ICCV 2025 (Highlight)</details>|
 |**2025-8-27**|**Generalizing Monocular 3D Object Detection**|Abhinav Kumar et.al|[paper](https://arxiv.org/abs/2508.19593)|-|<details><summary>detail</summary>PhD Thesis submitted to MSU</details>|
-|**2025-7-3**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al|[paper](https://arxiv.org/abs/2507.02393)|-|-|
 |**2025-6-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al|[paper](https://arxiv.org/abs/2506.14835)|-|-|
 
 ## Monocular 3D Visual Grounding
@@ -43,6 +43,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-30**|**PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding**|Duc Cao Dinh et.al|[paper](https://arxiv.org/abs/2606.31148)|[code](https://github.com/leduckhai/PruneGround)|<details><summary>detail</summary>Preprint</details>|
+|**2026-6-29**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al|[paper](https://arxiv.org/abs/2512.21078)|[code](https://github.com/dtc111111/UniPR-3D.)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
 |**2026-6-26**|**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**|Jiaming Bian et.al|[paper](https://arxiv.org/abs/2606.26964)|-|-|
 |**2026-6-18**|**Scaling Diverse Language Generation for 3D Visual Grounding**|Austin T. Wang et.al|[paper](https://arxiv.org/abs/2606.20946)|[code](https://3dlg-hcvc.github.io/vigil3dpp)|-|
 |**2026-5-28**|**JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments**|Zhan Liu et.al|[paper](https://arxiv.org/abs/2602.18527)|[code](https://github.com/liuzhan22/JAEGER.)|<details><summary>detail</summary>ICML 2026</details>|
@@ -59,8 +61,6 @@
 |**2026-1-13**|**Reasoning Matters for 3D Visual Grounding**|Hsiang-Wei Huang et.al|[paper](https://arxiv.org/abs/2601.08811)|-|<details><summary>detail</summary>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language</details>|
 |**2025-12-31**|**OpenGround: Active Cognition-based Reasoning for Open-World 3D Visual Grounding**|Wenyuan Huang et.al|[paper](https://arxiv.org/abs/2512.23020)|[code](https://why-102.github.io/openground.io/.)|-|
 |**2025-12-30**|**MoniRefer: A Real-world Large-scale Multi-modal Dataset based on Roadside Infrastructure for 3D Visual Grounding**|Panquan Yang et.al|[paper](https://arxiv.org/abs/2512.24605)|-|-|
-|**2025-12-28**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al|[paper](https://arxiv.org/abs/2512.21078)|[code](https://github.com/dtc111111/UniPR-3D.)|-|
 |**2025-12-23**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Seongmin Jung et.al|[paper](https://arxiv.org/abs/2512.20907)|-|-|
 |**2025-12-9**|**View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs**|Yuanyuan Liu et.al|[paper](https://arxiv.org/abs/2512.09215)|-|-|
-|**2025-11-30**|**S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance**|Beining Xu et.al|[paper](https://arxiv.org/abs/2512.01223)|-|-|
 
