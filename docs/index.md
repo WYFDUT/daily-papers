@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.07.15
+## Updated on 2026.07.22
 
 ## Monocular 3d Object Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-14**|**VersaQ-3D: Architecture Support for Visual Geometry Grounded Transformers via Versatile Quantization**|Yipu Zhang et.al|[paper](https://arxiv.org/abs/2601.20317)|-|-|
 |**2026-7-7**|**OpenGround: Planning-based Online Perception for Open-World 3D Visual Grounding**|Wenyuan Huang et.al|[paper](https://arxiv.org/abs/2512.23020)|[code](https://why-102.github.io/openground.io/.)|<details><summary>detail</summary>ECCV2026</details>|
 |**2026-7-1**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Seongmin Jung et.al|[paper](https://arxiv.org/abs/2512.20907)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-30**|**PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding**|Duc Cao Dinh et.al|[paper](https://arxiv.org/abs/2606.31148)|[code](https://github.com/leduckhai/PruneGround)|<details><summary>detail</summary>Preprint</details>|
@@ -62,5 +63,4 @@
 |**2026-1-30**|**Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation**|Di Zhang et.al|[paper](https://arxiv.org/abs/2601.22988)|-|-|
 |**2026-1-13**|**Reasoning Matters for 3D Visual Grounding**|Hsiang-Wei Huang et.al|[paper](https://arxiv.org/abs/2601.08811)|-|<details><summary>detail</summary>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language</details>|
 |**2025-12-30**|**MoniRefer: A Real-world Large-scale Multi-modal Dataset based on Roadside Infrastructure for 3D Visual Grounding**|Panquan Yang et.al|[paper](https://arxiv.org/abs/2512.24605)|-|-|
-|**2025-12-9**|**View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs**|Yuanyuan Liu et.al|[paper](https://arxiv.org/abs/2512.09215)|-|-|
 
