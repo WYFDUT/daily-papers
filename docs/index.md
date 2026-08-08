@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.08.01
+## Updated on 2026.08.08
 
 ## Monocular 3d Object Detection
 
@@ -43,6 +43,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-5**|**CoordRefer: Coordinate-Aware 3D Visual Grounding from Multiview Images**|Haijie Li et.al|[paper](https://arxiv.org/abs/2608.05569)|-|-|
+|**2026-8-5**|**Talk2Sensors: 3D Visual Grounding in Autonomous Driving via Sensor-Adaptive Physical Cue Matching**|Runwei Guan et.al|[paper](https://arxiv.org/abs/2608.04568)|-|-|
+|**2026-8-4**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al|[paper](https://arxiv.org/abs/2608.03763)|-|-|
+|**2026-8-1**|**GuideGround: VLM-guided Semantic Understanding and Viewpoint-aware Reasoning for 3D Visual Grounding**|Yiwen Wang et.al|[paper](https://arxiv.org/abs/2608.00518)|-|-|
 |**2026-7-22**|**MR-Compare: A Mixed-Reality Framework for Spatially Grounded Visual Comparison of 3D Gaussian Splatting and Mesh Reconstructions with the Physical Environment**|Changrui Zhu et.al|[paper](https://arxiv.org/abs/2607.20325)|[code](https://github.com/changruizhu96/MR-Compare.)|-|
 |**2026-7-14**|**VersaQ-3D: Architecture Support for Visual Geometry Grounded Transformers via Versatile Quantization**|Yipu Zhang et.al|[paper](https://arxiv.org/abs/2601.20317)|-|-|
 |**2026-7-7**|**OpenGround: Planning-based Online Perception for Open-World 3D Visual Grounding**|Wenyuan Huang et.al|[paper](https://arxiv.org/abs/2512.23020)|[code](https://why-102.github.io/openground.io/.)|<details><summary>detail</summary>ECCV2026</details>|
@@ -59,8 +63,4 @@
 |**2026-4-2**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al|[paper](https://arxiv.org/abs/2604.00528)|-|-|
 |**2026-3-31**|**MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation**|Changli Wu et.al|[paper](https://arxiv.org/abs/2601.06874)|[code](https://mvggt.github.io/.)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-18**|**OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**|Zhongyuang Liu et.al|[paper](https://arxiv.org/abs/2603.17351)|-|-|
-|**2026-3-9**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al|[paper](https://arxiv.org/abs/2603.08131)|-|-|
-|**2026-2-3**|**Z3D: Zero-Shot 3D Visual Grounding from Images**|Nikita Drozdov et.al|[paper](https://arxiv.org/abs/2602.03361)|[code](https://github.com/col14m/z3d)|-|
-|**2026-1-30**|**Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation**|Di Zhang et.al|[paper](https://arxiv.org/abs/2601.22988)|-|-|
-|**2026-1-13**|**Reasoning Matters for 3D Visual Grounding**|Hsiang-Wei Huang et.al|[paper](https://arxiv.org/abs/2601.08811)|-|<details><summary>detail</summary>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language</details>|
 
