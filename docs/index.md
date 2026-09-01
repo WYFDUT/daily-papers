@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.08.29
+## Updated on 2026.09.01
 
 ## Monocular 3d Object Detection
 
@@ -43,6 +43,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-31**|**SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding**|Yi Zhang et.al|[paper](https://arxiv.org/abs/2608.30451)|-|<details><summary>detail</summary>Accepted by ACM Multimedia 2026 (MM '26)</details>|
+|**2026-8-28**|**Inter-3D VQA: A Roadside Multimodal Benchmark for 3D Spatiotemporally Grounded Visual Question Answering**|Shaozu Ding et.al|[paper](https://arxiv.org/abs/2608.28762)|[code](https://github.com/ASU-Suo-Lab/Inter-3D-VQA)|<details><summary>detail</summary>EMNLP 2026 main conference</details>|
 |**2026-8-27**|**Glass Surface Detection Grounded in 3D Visual Geometry**|Yiwei Lu et.al|[paper](https://arxiv.org/abs/2608.26752)|[code](https://github.com/YT3DVision/VGGT_GLASS.)|-|
 |**2026-8-12**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al|[paper](https://arxiv.org/abs/2603.08131)|-|-|
 |**2026-8-5**|**CoordRefer: Coordinate-Aware 3D Visual Grounding from Multiview Images**|Haijie Li et.al|[paper](https://arxiv.org/abs/2608.05569)|-|-|
@@ -61,6 +63,4 @@
 |**2026-5-25**|**AgentGrounder: Zero-Shot 3D Visual Pointcloud Grounding using Multimodal Language Models**|Cuong Huynh et.al|[paper](https://arxiv.org/abs/2605.25901)|[code](https://github.com/be2rlab/AgentGrounder.)|<details><summary>detail</summary>Code: https://github</details>|
 |**2026-5-20**|**SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching**|Xuefei Sun et.al|[paper](https://arxiv.org/abs/2605.21788)|-|-|
 |**2026-4-28**|**Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding**|Yufei Yin et.al|[paper](https://arxiv.org/abs/2604.26261)|-|-|
-|**2026-4-28**|**DEGround: An Effective Baseline for Ego-centric 3D Visual Grounding with a Homogeneous Framework**|Yani Zhang et.al|[paper](https://arxiv.org/abs/2506.05199)|-|<details><summary>detail</summary>1st place on EmbodiedScan visual grounding</details>|
-|**2026-4-2**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al|[paper](https://arxiv.org/abs/2604.00528)|-|-|
 
