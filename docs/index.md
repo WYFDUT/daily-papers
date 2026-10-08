@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.10.01
+## Updated on 2026.10.08
 
 ## Monocular 3d Object Detection
 
@@ -35,6 +35,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-6**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al|[paper](https://arxiv.org/abs/2610.07982)|-|-|
 |**2025-11-10**|**Mono3DVG-EnSD: Enhanced Spatial-aware and Dimension-decoupled Text Encoding for Monocular 3D Visual Grounding**|Yuzhen Li et.al|[paper](https://arxiv.org/abs/2511.06908)|-|-|
 |**2025-8-26**|**Dual Enhancement on 3D Vision-Language Perception for Monocular 3D Visual Grounding**|Yuzhen Li et.al|[paper](https://arxiv.org/abs/2508.19165)|-|-|
 |**2023-12-13**|**Mono3DVG: 3D Visual Grounding in Monocular Images**|Yang Zhan et.al|[paper](https://arxiv.org/abs/2312.08022)|[code](https://github.com/ZhanYang-nwpu/Mono3DVG.)|<details><summary>detail</summary>Accepted by the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024)</details>|
@@ -43,6 +44,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-6**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al|[paper](https://arxiv.org/abs/2610.07982)|-|-|
+|**2026-10-5**|**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**|Jiaming Bian et.al|[paper](https://arxiv.org/abs/2606.26964)|-|<details><summary>detail</summary>NeurIPS 2026 (Main Track</details>|
+|**2026-10-2**|**Scaling 3D Visual Grounding in Abdominal CT**|Sam Church et.al|[paper](https://arxiv.org/abs/2610.04095)|-|-|
 |**2026-9-4**|**PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding**|Duc Cao Dinh et.al|[paper](https://arxiv.org/abs/2606.31148)|[code](https://github.com/leduckhai/PruneGround)|<details><summary>detail</summary>EMNLP 2026</details>|
 |**2026-9-4**|**Where to Look Matters: Learning Influential Views for VLM-based 3D Visual Grounding**|Tsung-Chih Chiang et.al|[paper](https://arxiv.org/abs/2609.04741)|[code](https://ivsground.github.io/)|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-8-31**|**SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding**|Yi Zhang et.al|[paper](https://arxiv.org/abs/2608.30451)|-|<details><summary>detail</summary>Accepted by ACM Multimedia 2026 (MM '26)</details>|
@@ -58,9 +62,6 @@
 |**2026-7-7**|**OpenGround: Planning-based Online Perception for Open-World 3D Visual Grounding**|Wenyuan Huang et.al|[paper](https://arxiv.org/abs/2512.23020)|[code](https://why-102.github.io/openground.io/.)|<details><summary>detail</summary>ECCV2026</details>|
 |**2026-7-1**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Seongmin Jung et.al|[paper](https://arxiv.org/abs/2512.20907)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-29**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al|[paper](https://arxiv.org/abs/2512.21078)|[code](https://github.com/dtc111111/UniPR-3D.)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
-|**2026-6-26**|**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**|Jiaming Bian et.al|[paper](https://arxiv.org/abs/2606.26964)|-|-|
 |**2026-6-18**|**Scaling Diverse Language Generation for 3D Visual Grounding**|Austin T. Wang et.al|[paper](https://arxiv.org/abs/2606.20946)|[code](https://3dlg-hcvc.github.io/vigil3dpp)|-|
 |**2026-5-28**|**JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments**|Zhan Liu et.al|[paper](https://arxiv.org/abs/2602.18527)|[code](https://github.com/liuzhan22/JAEGER.)|<details><summary>detail</summary>ICML 2026</details>|
-|**2026-5-25**|**AgentGrounder: Zero-Shot 3D Visual Pointcloud Grounding using Multimodal Language Models**|Cuong Huynh et.al|[paper](https://arxiv.org/abs/2605.25901)|[code](https://github.com/be2rlab/AgentGrounder.)|<details><summary>detail</summary>Code: https://github</details>|
-|**2026-5-20**|**SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching**|Xuefei Sun et.al|[paper](https://arxiv.org/abs/2605.21788)|-|-|
 
